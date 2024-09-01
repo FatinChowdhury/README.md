@@ -1,10 +1,10 @@
 # README.md
 
-# 💫 About Me:
+# About Me:
 working on an open-source project (implementing friendship feature), planning on working with LLMs and integrating it into website<br>aspire to be a software engineer, studying cs at McGill University
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fatin-chowdhury/) 
 
 # 💻 Tech Stack:
